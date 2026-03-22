@@ -81,6 +81,6 @@ mehak = {
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=mehakgoel20&color=00C853&style=for-the-badge&label=PROFILE+VIEWS)
 
-*Open to roles in fintech AI, GenAI engineering, and applied ML — reach out at mehakgoel2003@gmail.com*
+*Open to roles in fintech AI, GenAI engineering, and applied ML — reach out at gmehak350@gmail.com*
 
 </div>
