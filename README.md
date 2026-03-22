@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Mehak
 
-<!--
-**mehakgoel20/mehakgoel20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate Full Stack Developer  
 
-Here are some ideas to get you started:
+I build robust, scalable, and high-performance web applications.  
+I love creating clean UI + powerful backend systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ What I Do
+
+- 💻 Build frontend with React, Next.js, Tailwind  
+- ⚙️ Develop backend using Node.js & Express  
+- 🗄️ Work with databases (MongoDB, PostgreSQL)  
+- 🔗 API integrations & performance optimization  
+
+---
+
+## 🧠 Skills
+
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![React](https://img.shields.io/badge/React-blue)
+![Node.js](https://img.shields.io/badge/Node.js-green)
+![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen)
+![AWS](https://img.shields.io/badge/AWS-orange)
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: your-link
+- Portfolio: your-site
