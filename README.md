@@ -12,7 +12,7 @@
 ![Open to Internships](https://img.shields.io/badge/Open%20to%20Internships-00C853?style=for-the-badge&logo=checkmarx&logoColor=white)
 ![Immediate Joining](https://img.shields.io/badge/Immediate%20Joining-FF6D00?style=for-the-badge&logo=clockify&logoColor=white)
 
-**Pre-final year @ Sharda University · Fintech AI & GenAI Engineering · Available immediately**
+**Pre-final year @ Sharda University · AI/ML · Available immediately**
 
 </div>
 
@@ -81,6 +81,6 @@ mehak = {
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=mehakgoel20&color=00C853&style=for-the-badge&label=PROFILE+VIEWS)
 
-*Open to AI/ML internships across any domain — reach out at — reach out at gmehak350@gmail.com*
+*Open to AI/ML internships across any domain  — reach out at gmehak350@gmail.com*
 
 </div>
