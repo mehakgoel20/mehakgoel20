@@ -8,7 +8,7 @@
 ```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mehakgoel20)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehakgoel2003@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gmehak350@gmail.com)
 ![Open to Internships](https://img.shields.io/badge/Open%20to%20Internships-00C853?style=for-the-badge&logo=checkmarx&logoColor=white)
 ![Immediate Joining](https://img.shields.io/badge/Immediate%20Joining-FF6D00?style=for-the-badge&logo=clockify&logoColor=white)
 
