@@ -2,8 +2,9 @@
 
 ```
 ╔══════════════════════════════════════════════════════════╗
-║                   MEHAK GOEL                  ║
-║         Building production-grade systems          ║
+║                   MEHAK GOEL                             ║
+║          Software Engineer • AI/ML Engineer              │
+|           From prototype to production.                  ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
@@ -21,18 +22,14 @@
 ### `$ whoami`
 
 ```python
-mehak = {
-    "university" : "Sharda University — B.Tech CSE (AI/ML), CGPA 8.0",
-    "certified"  : [
-        "Oracle OCI Generative AI Professional (2025)",
-        "Oracle OCI AI Foundations (2025)"
-    ]
-}
-```
+$ mehak --about
 
-> I build production-grade systems — not just notebooks.  
-> CredLens AI ships with audit logs, evaluation harnesses, and Docker.  
-> FinQA RAG ships with refusal logic, Redis caching, and observable cost controls.
+✓ Backend Engineering
+✓ AI-powered Applications
+✓ REST APIs
+✓ Production Systems
+✓ Shipping > Prototyping
+```
 
 ---
 
@@ -47,69 +44,50 @@ mehak = {
 
 ---
 
-### `$ cat ./tech-stack.json`
+```
+### $ focus
 
-```json
-{
-  "languages": [
-    "Python",
-    "SQL",
-    "JavaScript"
-  ],
-
-  "backend": [
-    "FastAPI",
-    "REST APIs",
-    "Redis",
-    "SQLite"
-  ],
-
-  "databases": [
-    "ChromaDB",
-    "Qdrant",
-    "FAISS"
-  ],
-
-  "software_engineering": [
-    "Git",
-    "Docker",
-    "Linux",
-    "System Design",
-    "REST Architecture"
-  ],
-
-  "ai_ml": [
-    "Scikit-learn",
-    "LangChain",
-    "RAG",
-    "Sentence Transformers",
-    "Pandas",
-    "NumPy"
-  ],
-
-  "llm": [
-    "OpenAI API",
-    "Anthropic API",
-    "BM25",
-    "Prompt Engineering"
-  ],
-
-  "cloud": [
-    "Oracle OCI",
-    "Railway",
-    "GCP (Learning)"
-  ]
-}
+focus/
+├── backend/
+│   ├── FastAPI
+│   ├── REST APIs
+│   ├── Redis
+│   ├── Docker
+│   └── SQLite
+│
+├── ai_ml/
+│   ├── RAG
+│   ├── LangChain
+│   ├── Transformers
+│   ├── Scikit-learn
+│   └── Vector Search
+│
+├── cloud/
+│   ├── Oracle OCI
+│   ├── Railway
+│   └── GCP (Learning)
+│
+└── currently_learning/
+    ├── Kubernetes
+    ├── Distributed Systems
+    └── System Design
 ```
 
-### `$ cat ./what-i-build`
+### $ currently-building.md
 
-```
-[1]  RAG pipelines grounded in real constraints — no hallucinations, no magic
-[2]  Credit decisioning with explainability, audit trails & policy alignment
-[3]  ML systems: raw messy data → production API
-[4]  GenAI tools that are observable, testable, and deployable
-```
+## Current Interests
+
+• Backend Engineering
+• Production AI Systems
+• System Design
+• Distributed Applications
+• Developer Tooling
+
+## Favorite Problems
+
+• Making AI systems reliable
+• Designing scalable APIs
+• Building software from idea → deployment
 
 ---
 
@@ -117,6 +95,6 @@ mehak = {
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=mehakgoel20&color=00C853&style=for-the-badge&label=PROFILE+VIEWS)
 
-*Open to AI/ML internships across any domain  — reach out at gmehak350@gmail.com*
+*Open to Software Engineering, Backend, and AI/ML roles • Reach out at gmehak350@gmail.com*
 
 </div>
