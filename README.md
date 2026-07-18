@@ -2,8 +2,8 @@
 
 ```
 ╔══════════════════════════════════════════════════════════╗
-║         MEHAK GOEL  //  AI/ML ENGINEER                   ║
-║         Building production-grade GenAI systems          ║
+║                   MEHAK GOEL                  ║
+║         Building production-grade systems          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
@@ -12,7 +12,7 @@
 ![Open to Internships](https://img.shields.io/badge/Open%20to%20Internships-00C853?style=for-the-badge&logo=checkmarx&logoColor=white)
 ![Immediate Joining](https://img.shields.io/badge/Immediate%20Joining-FF6D00?style=for-the-badge&logo=clockify&logoColor=white)
 
-**Pre-final year @ Sharda University · AI/ML · Available immediately**
+**Final year @ Sharda University · Available immediately**
 
 </div>
 
@@ -22,10 +22,7 @@
 
 ```python
 mehak = {
-    "role"       : "AI/ML Engineer | GenAI Builder",
     "university" : "Sharda University — B.Tech CSE (AI/ML), CGPA 8.0",
-    "focus"      : ["RAG Systems", "LLM Engineering", "Fintech AI"],
-    "status"     : "🟢 Actively seeking AI/ML internships — fintech & GenAI",
     "certified"  : [
         "Oracle OCI Generative AI Professional (2025)",
         "Oracle OCI AI Foundations (2025)"
@@ -33,7 +30,7 @@ mehak = {
 }
 ```
 
-> I build production-grade AI systems — not just notebooks.  
+> I build production-grade systems — not just notebooks.  
 > CredLens AI ships with audit logs, evaluation harnesses, and Docker.  
 > FinQA RAG ships with refusal logic, Redis caching, and observable cost controls.
 
@@ -54,17 +51,56 @@ mehak = {
 
 ```json
 {
-  "languages"   : ["Python", "SQL", "JavaScript"],
-  "ml_ai"       : ["LangChain", "RAG", "ChromaDB", "Qdrant", "FAISS",
-                   "Scikit-learn", "Pandas", "NumPy"],
-  "llm_infra"   : ["FastAPI", "Redis", "BM25", "Sentence Transformers",
-                   "OpenAI API", "Anthropic API"],
-  "devops"      : ["Docker", "Railway", "Git", "Linux"],
-  "cloud"       : ["Oracle OCI", "GCP (learning)"]
+  "languages": [
+    "Python",
+    "SQL",
+    "JavaScript"
+  ],
+
+  "backend": [
+    "FastAPI",
+    "REST APIs",
+    "Redis",
+    "SQLite"
+  ],
+
+  "databases": [
+    "ChromaDB",
+    "Qdrant",
+    "FAISS"
+  ],
+
+  "software_engineering": [
+    "Git",
+    "Docker",
+    "Linux",
+    "System Design",
+    "REST Architecture"
+  ],
+
+  "ai_ml": [
+    "Scikit-learn",
+    "LangChain",
+    "RAG",
+    "Sentence Transformers",
+    "Pandas",
+    "NumPy"
+  ],
+
+  "llm": [
+    "OpenAI API",
+    "Anthropic API",
+    "BM25",
+    "Prompt Engineering"
+  ],
+
+  "cloud": [
+    "Oracle OCI",
+    "Railway",
+    "GCP (Learning)"
+  ]
 }
 ```
-
----
 
 ### `$ cat ./what-i-build`
 
